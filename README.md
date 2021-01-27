@@ -18,4 +18,6 @@ MergeSort
 
 QuickSort
 
-In addition to the ordering methods, the code has functions to manipulate the file and show the numbers on the screen.
+
+The code displays options in Brazilian Portuguese and in addition to the ordering methods, the code has 
+functions to manipulate the file and show the numbers on the screen.
