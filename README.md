@@ -4,36 +4,36 @@ The code has functions to manipulate the file and show the numbers on the screen
 
 The following methods have been implemented:
 
-InsertionSort
+  InsertionSort
 
-SelectionSort
+  SelectionSort
 
-ShellSort
+  ShellSort
 
-BubbleSort
+  BubbleSort
 
-Smart BubbleSort
+  Smart BubbleSort
 
-MergeSort
+  MergeSort
 
-QuickSort
+  QuickSort
 
-======================================================================================================================================================================
+============================================================================================
 
 Implementação feita no Netbeans para abrir um arquivo .txt (t.txt) que contém números aleatórios em cada linha. O código possui funções para manipular o arquivo e mostrar os números na tela.
 
 Os seguintes métodos foram implementados:
 
-InsertionSort
+  InsertionSort
 
-SelectionSort
+  SelectionSort
 
-ShellSort
+  ShellSort
 
-Tipo de bolha
+  BubbleSort
 
-Smart BubbleSort
+  Smart BubbleSort
 
-MergeSort
+  MergeSort
 
-QuickSort
+  QuickSort
