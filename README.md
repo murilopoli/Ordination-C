@@ -3,6 +3,7 @@ Implementation made in Netbeans for ordering a .txt file(t.txt) that contains ra
 The code has functions to manipulate the file and show the numbers on the screen.
 
 The following methods have been implemented:
+
 InsertionSort
 
 SelectionSort
