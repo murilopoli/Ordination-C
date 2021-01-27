@@ -1,6 +1,6 @@
 
 Implementation made in Netbeans for ordering a .txt file(t.txt) that contains random numbers on each line. 
-The code has functions to manipulate the file and show the numbers on the screen.
+The code has functions to manipulate the file and show the numbers on the screen.The code displays options in Brazilian Portuguese.
 
 The following methods have been implemented:
 
@@ -18,6 +18,22 @@ MergeSort
 
 QuickSort
 
+======================================================================================================================================================================
 
-The code displays options in Brazilian Portuguese and in addition to the ordering methods, the code has 
-functions to manipulate the file and show the numbers on the screen.
+Implementação feita no Netbeans para abrir um arquivo .txt (t.txt) que contém números aleatórios em cada linha. O código possui funções para manipular o arquivo e mostrar os números na tela.
+
+Os seguintes métodos foram implementados:
+
+InsertionSort
+
+SelectionSort
+
+ShellSort
+
+Tipo de bolha
+
+Smart BubbleSort
+
+MergeSort
+
+QuickSort
